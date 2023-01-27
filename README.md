@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kareenak1
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m a tech enthusiast 
+- 🌱 I’m currently learning UI/UX Design 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
