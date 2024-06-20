@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Karenkathure
 - 👀 I’m a tech enthusiast 
-- 🌱 I’m currently learning UI/UX Design 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m a UI/UX Design 
+- 💞️ I’m looking to collaborate on web Design & development, Mobile Design & developmet
+  
 
 <!---
 Kareenakathure/Kareenakathure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
